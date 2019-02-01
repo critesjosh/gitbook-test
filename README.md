@@ -1,3 +1,7 @@
+---
+description: This is the landing page
+---
+
 # Initial page
 
 ## Getting Super Powers

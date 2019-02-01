@@ -3,6 +3,7 @@
 * [Initial page](README.md)
 * [Second Page](second-page.md)
 * [FAQ](faq.md)
+* [API](api.md)
 
 ## Second Group
 
